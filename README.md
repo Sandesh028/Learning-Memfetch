@@ -165,5 +165,3 @@ Or individually: `kill <PID>`
 - Use hardware-backed key stores or secure enclaves.  
 
 ---
-
-🧩 **End of Student Walkthrough**
